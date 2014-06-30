@@ -7,6 +7,12 @@ the class uses text-to-speach software [eSpeak](http://espeak.sourceforge.net/) 
 
 thats all. have fun!!! =)
 
+Installation
+-------------
+you actually have to have the software installed in you pc.
+1. go to this [url](http://espeak.sourceforge.net/download.html) (http://espeak.sourceforge.net/download.html)
+2. download and install the software
+
 Usage
 ------
 simple include the header file `voice.h` in your program the call the voice class. example:
